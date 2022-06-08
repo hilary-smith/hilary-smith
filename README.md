@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hilary-smith
 - 👀 I’m interested in ... front end development, child welfare, foster care, social justice, and cheesy reality tv.
 - 🌱 I’m currently learning ... Javascript, React, and all things web development!
-- ✨ I'm currently employed full time as a social worker, but looking forward to a career change soon.
+- ✨ I'm currently employed full time as a social worker.
 - 📫 How to reach me ...
 - seward.hilary@gmail.com
