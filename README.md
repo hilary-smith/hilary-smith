@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning ... Javascript, React, and all things web development!
 - ✨ I'm currently employed full time as a social worker.
 - 📫 How to reach me ...
-- seward.hilary@gmail.com
+- hilarysmith.info@gmail.com
